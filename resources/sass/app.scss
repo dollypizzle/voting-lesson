@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.list-group-item > .span {
+    margin-right: 1em;
+}
+
+.CommunityLink > form {
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 1em;
+}
